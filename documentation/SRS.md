@@ -27,7 +27,7 @@ GalaxyCruiser имеет игровой процесс с участием 2D-г
 #### 2.1 Программные интерфейсы <a name="2.1"></a>
 * Pygame – это кросс-платформенная библиотека модулей для языка Python, созданная для разработки 2D игр.
 #### 2.2 Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс представлен с помощью мокапов [главного меню](https://github.com/notmyfriend/GalaxyCruiser/documentation/mockups/menu.png), [игрового окна](https://github.com/notmyfriend/GalaxyCruiser/documentation/mockups/game.png), [таблицы лучших результатов](https://github.com/notmyfriend/GalaxyCruiser/documentation/mockups/high_score.png).
+Графический интерфейс представлен с помощью мокапов [главного меню](https://github.com/notmyfriend/GalaxyCruiser/tree/main/documentation/mockups/menu.png), [игрового окна](https://github.com/notmyfriend/GalaxyCruiser/tree/main/documentation/mockups/game.png), [таблицы лучших результатов](https://github.com/notmyfriend/GalaxyCruiser/tree/main/documentation/mockups/high_score.png).
 #### 2.3 Характеристики пользователей <a name="2.3"></a>
 * Целевой аудиторией являются пользователи ПК, в любом возрасте.
 #### 2.4 Предположения и зависимости <a name="2.4"></a>
